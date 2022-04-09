@@ -1,0 +1,32 @@
+{
+  "title": {
+    "first": "awesome",
+    "last": "services",
+    "back": "services",
+    "content": [
+      "I am pretty good at designing 'cause I have experience of 3-months-working as a designer when I was at college, so sometimes I build website frontend without any design, only with my vision and sense this site is the example."
+    ]
+  },
+  "services": [
+    {
+      "title": "D-APP",
+      "content": "All kinds of dAPP including Defi, Crypto Currency, NFT market places..."
+    },
+    {
+      "title": "SEO",
+      "content": "White-Hat, Black-Hat, Negative, On-Page, Off-Page, Technical"
+    },
+    {
+      "title": "Ecommerce",
+      "content": "B2B like Shopify, B2C like Amazon, C2C like eBay"
+    },
+    {
+      "title": "MERN Stack",
+      "content": "From scalable business websites to the large. Just grow your company!"
+    },
+    {
+      "title": "Big Data",
+      "content": "All kinds of big data, including Structed, Unstructed, Semi-Structed"
+    }
+  ]
+}

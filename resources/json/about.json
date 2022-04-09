@@ -1,0 +1,94 @@
+{
+  "title": {
+    "first": "Stenor",
+    "last": "Tanaka",
+    "back": "Stenor",
+    "content": [
+      "I am working as a web developer since 2015. Worked in more than 20 live projects and also with more than 10 different clients!"
+    ]
+  },
+  "profile": {
+    "birthday": "15th May, 1995",
+    "language": ["English", "Japanese"],
+    "expertin": ["Smart Contract", "React.js"],
+    "freelance": "Available",
+    "content": "I'm a more-than-7-years-experienced programmer that has been specializing in Full-Stack web development for the past four years although I have experience in recent technologies like Blockchain and dAPP. I would like to take part in Smart Contract projects, especially Defi & NFT."
+  },
+  "skillClass": [
+    "opacity-100",
+    "opacity-100",
+    "opacity-90",
+    "opacity-70",
+    "opacity-50",
+    "opacity-30",
+    "opacity-10",
+    "opacity-0"
+  ],
+  "skills": [
+    {
+      "tag": ["OOP", "LANDING"],
+      "language": "Solidity",
+      "value": 90
+    },
+    {
+      "tag": ["OOP", "C", "LANDING"],
+      "language": "C/C++",
+      "value": 75
+    },
+    {
+      "tag": ["OOP", "JS", "LANDING"],
+      "language": "React + TS",
+      "value": 92
+    },
+    {
+      "tag": ["OOP", "JS", "LANDING"],
+      "language": "Next.js",
+      "value": 80
+    },
+    {
+      "tag": ["OOP", "PHP", "LANDING"],
+      "language": "Laravel",
+      "value": 78
+    },
+    {
+      "tag": ["OOP", "JS", "LANDING"],
+      "language": "Node.js",
+      "value": 86
+    },
+    {
+      "tag": ["OOP", "JS", "LANDING"],
+      "language": "React Native",
+      "value": 82
+    },
+    {
+      "tag": ["OOP", "JS"],
+      "language": "Jquery",
+      "value": 80
+    },
+    {
+      "tag": ["STYLE", "CSS", "LANDING"],
+      "language": "Tailwind",
+      "value": 90
+    },
+    {
+      "tag": ["STYLE", "CSS"],
+      "language": "Bootstrap",
+      "value": 75
+    },
+    {
+      "tag": ["DB", "SQL"],
+      "language": "MySql",
+      "value": 75
+    },
+    {
+      "tag": ["DB", "SQL"],
+      "language": "PostgreSql",
+      "value": 86
+    },
+    {
+      "tag": ["DB", "NOSQL"],
+      "language": "ElasticSearch",
+      "value": 88
+    }
+  ]
+}

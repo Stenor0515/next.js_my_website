@@ -1,0 +1,109 @@
+{
+  "title": {
+    "first": "My",
+    "last": "history",
+    "back": "resume",
+    "content": ["Followings are my Education & Public Experience."]
+  },
+  "resume": [
+    {
+      "title": "Education",
+      "data": [
+        {
+          "title": "Temple University Japan",
+          "subtitle": "http://mcmaster.com/",
+          "address": "Hamilton, Canada",
+          "duration": [2012, 2016],
+          "major": "Computer Science",
+          "content": "Experienced in Node.js, RoR, Laravel, Django and CMS.",
+          "label": ["C/C++", "JavaScript", "PHP"]
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "data": [
+        {
+          "title": "DynamicCoin",
+          "subtitle": "http://dynamiccoin.org/",
+          "duration": ["Oct 2018", "Dec 2019"],
+          "content": ["Supported users in chatting channels technically."],
+          "label": ["Wordpress", "PHP", "Mysql"]
+        },
+        {
+          "title": "Native Mobile App",
+          "subtitle": null,
+          "duration": ["Dec 2019", "Jan 2020"],
+          "content": [
+            "Developed Native mobile apps using Java/Kotlin, ObjectiveC/Swift and hybrid apps using React-Native, Flutter,ionic, Exchange Platforms (Skyrus, Coinji, ETORO, Paxforex)."
+          ],
+          "label": ["React Native", "Java"]
+        },
+        {
+          "title": "eCommerce",
+          "duration": ["Jan 2020", "April 2020"],
+          "content": [
+            "Build real estate websites and eCommerce for several componies.",
+            " And maintained some sites and revamped web application and developed user-friendly website, including optimized check-out page that increased user clicks and subsequently customer purchases."
+          ],
+          "label": []
+        },
+        {
+          "title": "Admin Portal",
+          "duration": ["April 2020", "June 2020"],
+          "content": [
+            "Created from scratch the admin portal in React in a period of six weeks with features like  user roles, bulk content uploads using CSV files, a notification panel to send a notification to a particular set of users, and more."
+          ],
+          "label": []
+        },
+        {
+          "title": "A Simple dApp",
+          "duration": ["June 2020", "June 2020"],
+          "content": [
+            "Built a demo dApp for staking contract.",
+            "The graph for the staking contract tracking all events and allowing more advanced queries"
+          ],
+          "label": []
+        },
+        {
+          "title": "Third party integration",
+          "duration": ["June 2020", "July 2020"],
+          "content": [
+            "Traitable-analyzing traits based on data from third party open sea like Trait sniper but simple."
+          ],
+          "label": []
+        },
+        {
+          "title": "Formation, and AWS S3",
+          "duration": ["July 2020", "August 2020"],
+          "content": [
+            "Worked on a distributed team that operated under an Agile methodology."
+          ],
+          "label": []
+        },
+        {
+          "title": "Website for a restaurant",
+          "duration": ["August 2020", "December 2020"],
+          "content": [
+            "Built a large site for restaurants. It provides the statistics of restaurant rating in Europe. Integrated from the thrid parties."
+          ],
+          "label": ["React", "Tailwind"]
+        },
+        {
+          "title": "Personal Website",
+          "duration": ["January 2021", "Feburary 2021"],
+          "content": [
+            "Built a personal site that provides RTC, Video/Audio call, Schedule."
+          ],
+          "label": ["React", "Tailwind"]
+        },
+        {
+          "title": "NFT Minting Site & Marketplace",
+          "duration": ["Feburary 2021", "August 2021"],
+          "content": ["Built a minting site and marketplace."],
+          "label": ["Laravel", "PostgreSql"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": {
+    "first": "my",
+    "last": "clients",
+    "back": "search",
+    "content": [
+      "I am working as a web developer since 2018. Worked in more than 20 live projects and also with more than 10 different clients!"
+    ]
+  },
+  "comments": [
+    {
+      "name": "Hitesh Patel",
+      "job": "CEO",
+      "nationality": "India",
+      "comment": "He is a great web developer. His speciality is pixel-perfect implementation."
+    },
+    {
+      "name": "Ray Chen",
+      "job": "Student",
+      "nationality": "US",
+      "comment": "He is a great developer. His products are brilliant."
+    },
+    {
+      "name": "Aynoor",
+      "job": "Developer",
+      "nationality": "Pakistan",
+      "comment": "He learns new technologies very fast. I wonder how he could!!!"
+    },
+    {
+      "name": "Oliver",
+      "job": "Analyzer",
+      "nationality": "US",
+      "comment": "I look high his coding style. He keeps at least 80% of Google Coding Style in his projects. But be careful, he sometimes do Ninja-Coding :)"
+    }
+  ]
+}
