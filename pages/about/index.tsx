@@ -74,7 +74,7 @@ const About = () => {
               </p>
               <p className='flex items-center gap-1'>
                 <b>Freelance:</b>
-                {data.profile.freelance}
+                {data.profile.workable}
                 <span className='flex h-3 w-3'>
                   <span className='animate-ping absolute inline-flex h-3 w-3 rounded-full opacity-75 bg-sky-400'></span>
                   <span className='relative inline-flex rounded-full h-3 w-3 bg-sky-500'></span>
