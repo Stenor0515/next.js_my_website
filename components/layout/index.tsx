@@ -30,7 +30,7 @@ const Layout = (props: any) => {
 
   const header = (
     <Head>
-      <title>Smart Dev</title>
+      <title>Stenor Tanaka</title>
       <meta name='description' content='Web Developer' />
       <meta name='og:title' content='Full Stack Dev Resume' />
       <meta name='twitter:card' content='Web Developer' />
@@ -129,9 +129,9 @@ const Layout = (props: any) => {
               ← Prev Page
             </span>
             <span className='copyright'>
-              2018 - {new Date().getFullYear()}
+              2016 - {new Date().getFullYear()}
               <span className='invisible sm:visible pl-2'>
-                Full-Stack Web Developer, Freelancing
+                Full-Stack Web Developer, Blockchain Technologies
               </span>
             </span>
             <span

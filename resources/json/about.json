@@ -11,7 +11,7 @@
     "birthday": "15th May, 1995",
     "language": ["English", "Japanese"],
     "expertin": ["Smart Contract", "React.js"],
-    "freelance": "Available",
+    "workable": "Immediate",
     "content": "I'm a more-than-7-years-experienced programmer that has been specializing in Full-Stack web development for the past four years although I have experience in recent technologies like Blockchain and dAPP. I would like to take part in Smart Contract projects, especially Defi & NFT."
   },
   "skillClass": [
@@ -38,7 +38,7 @@
     {
       "tag": ["OOP", "JS", "LANDING"],
       "language": "React + TS",
-      "value": 92
+      "value": 94
     },
     {
       "tag": ["OOP", "JS", "LANDING"],
@@ -53,7 +53,7 @@
     {
       "tag": ["OOP", "JS", "LANDING"],
       "language": "Node.js",
-      "value": 86
+      "value": 92
     },
     {
       "tag": ["OOP", "JS", "LANDING"],
@@ -68,7 +68,7 @@
     {
       "tag": ["STYLE", "CSS", "LANDING"],
       "language": "Tailwind",
-      "value": 90
+      "value": 80
     },
     {
       "tag": ["STYLE", "CSS"],
