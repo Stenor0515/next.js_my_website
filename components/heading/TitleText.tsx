@@ -1,5 +1,14 @@
 const TitleText = (props: any) => {
-  return <p className='text-[18px] mb-[20px]'>{props.data}</p>;
+  function fillContent() {
+    return { __html: props.data };
+  }
+
+  return (
+    <p
+      dangerouslySetInnerHTML={fillContent()}
+      className="text-[18px] mb-[20px]"
+    ></p>
+  );
 };
 
 export default TitleText;

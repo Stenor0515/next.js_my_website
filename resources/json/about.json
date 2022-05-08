@@ -28,17 +28,17 @@
     {
       "tag": ["OOP", "LANDING"],
       "language": "Solidity",
-      "value": 90
+      "value": 93
     },
     {
-      "tag": ["OOP", "C", "LANDING"],
-      "language": "C/C++",
-      "value": 75
+      "tag": ["OOP", "Python", "LANDING"],
+      "language": "Django",
+      "value": 70
     },
     {
       "tag": ["OOP", "JS", "LANDING"],
-      "language": "React + TS",
-      "value": 94
+      "language": "React",
+      "value": 95
     },
     {
       "tag": ["OOP", "JS", "LANDING"],
@@ -48,47 +48,57 @@
     {
       "tag": ["OOP", "PHP", "LANDING"],
       "language": "Laravel",
-      "value": 78
+      "value": 75
     },
     {
       "tag": ["OOP", "JS", "LANDING"],
       "language": "Node.js",
-      "value": 92
+      "value": 90
     },
     {
       "tag": ["OOP", "JS", "LANDING"],
-      "language": "React Native",
+      "language": "Vue.js",
+      "value": 80
+    },
+    {
+      "tag": ["OOP", "JS", "LANDING"],
+      "language": "Jquery",
       "value": 82
     },
     {
-      "tag": ["OOP", "JS"],
-      "language": "Jquery",
-      "value": 80
+      "tag": ["STYLE", "CSS", "LANDING"],
+      "language": "TailwindCSS",
+      "value": 78
     },
     {
       "tag": ["STYLE", "CSS", "LANDING"],
-      "language": "Tailwind",
-      "value": 80
-    },
-    {
-      "tag": ["STYLE", "CSS"],
       "language": "Bootstrap",
-      "value": 75
+      "value": 84
     },
     {
-      "tag": ["DB", "SQL"],
+      "tag": ["DB", "SQL", "LANDING"],
       "language": "MySql",
-      "value": 75
+      "value": 87
     },
     {
-      "tag": ["DB", "SQL"],
-      "language": "PostgreSql",
+      "tag": ["DB", "SQL", "LANDING"],
+      "language": "PostgreSQL",
       "value": 86
     },
     {
-      "tag": ["DB", "NOSQL"],
-      "language": "ElasticSearch",
+      "tag": ["OOP", "TS", "LANDING"],
+      "language": "TypeScript",
       "value": 88
+    },
+    {
+      "tag": ["DEV", "HOST", "LANDING"],
+      "language": "AWS",
+      "value": 81
+    },
+    {
+      "tag": ["OOP", "JS", "LANDING"],
+      "language": "Web3.js",
+      "value": 91
     }
   ]
 }
