@@ -22,6 +22,6 @@
     "resources/data/widthData.js",
     "resources/data/widthData.txs",
     "features/counter/Counter.spec.tsx.null"
-, "pages/_app.jsx", "components/particleBackground.jsx"  ],
+, "pages/_app.jsx", "components/particleBackground.jsx", "components/contact/contactBlock.jsx"  ],
   "exclude": ["node_modules"]
 }

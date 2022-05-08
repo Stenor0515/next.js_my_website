@@ -34,7 +34,7 @@ const Contact = () => {
     const templateParams = {
       from_name: name,
       from_email: email,
-      to_name: 'James Jin',
+      to_name: 'Stenor Tanaka',
       message: totalMessage,
     };
     emailjs
