@@ -95,7 +95,7 @@ const About = () => {
               className="cursor-pointer hover:text-white animate-pulse hover:animate-none"
               onClick={() => setSeeMore(skills.length)}
             >
-              Click here to see my skills more...
+              Click here to see more...
             </span>
           </div>
           <div className="skill-wrapper gap-3 flex flex-col pb-[3.5vw] md:pb-0">
