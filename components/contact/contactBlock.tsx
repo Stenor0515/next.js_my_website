@@ -26,9 +26,17 @@ const ContactBlock = ({ type, value }: propsType) => {
       <div>
         <h2 className="text-white text-[18px] uppercase">{type}</h2>
         {type === "email" ? (
-          <a href={`mailto:${value}`}>{value}</a>
+          <a href={`mailto:${value}`} target="_blank" rel="noopener noreferrer">
+            {value}
+          </a>
         ) : (
-          <a href={`https://${value}`}>{value}</a>
+          <a
+            href={`https://${value}`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {value}
+          </a>
         )}
       </div>
     </div>
